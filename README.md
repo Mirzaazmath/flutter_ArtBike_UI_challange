@@ -1,5 +1,33 @@
 # flutter_vector_bike
 
+# FLUTTER ART BIKE UI CHALLENGE
+
+
+# ScreenShot 1
+
+
+
+<img src ="https://github.com/Mirzaazmath/flutter_ArtBike_UI_challange/blob/main/assets/output/Screenshot1.png" height="400">
+
+
+
+
+# ScreenShot 2
+
+
+
+<img src ="https://github.com/Mirzaazmath/flutter_ArtBike_UI_challange/blob/main/assets/output/Screenshot2.png" height="400">
+
+
+
+
+# Result 
+
+
+
+<img src ="https://github.com/Mirzaazmath/flutter_ArtBike_UI_challange/blob/main/assets/output/Result.gif" height="400">
+
+
 A new Flutter project.
 
 ## Getting Started
